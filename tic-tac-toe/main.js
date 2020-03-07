@@ -1,3 +1,8 @@
+/*
+    Current Issues:
+    - If this gets looked at before I have a chance to push up what I worked on at home, this isn't the current version
+*/
+
 var content = document.getElementById('content');
 
 var ticTacToe = "Replace this with your own abstraction of Tic Tac Toe"

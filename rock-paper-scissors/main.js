@@ -1,3 +1,8 @@
+/*
+    Current Issues:
+    - N/A, finished this with the class
+*/
+
 var content = document.getElementById('content');
 
 var rockPaperScissors = {

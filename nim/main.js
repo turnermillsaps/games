@@ -1,4 +1,9 @@
 /*
+    Current Issues:
+    - Originally started this before we worked through rock-paper-scissors in class, so I now have better understanding
+        - On the right track so far, but need to work through actually rendering this to the page
+    
+
     Nim Abstraction
     - 2 Players
     - 16 pieces
